@@ -1,0 +1,7 @@
+{
+  "name": "wakeupVibes",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
